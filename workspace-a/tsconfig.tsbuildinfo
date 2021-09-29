@@ -1,0 +1,57 @@
+{
+  "program": {
+    "fileInfos": {
+      "../.yarn/cache/typescript-patch-d9e3e0986b-4049d2a87b.zip/node_modules/typescript/lib/lib.d.ts": {
+        "version": "2dc8c927c9c162a773c6bb3cdc4f3286c23f10eedc67414028f9cb5951610f60",
+        "signature": "2dc8c927c9c162a773c6bb3cdc4f3286c23f10eedc67414028f9cb5951610f60",
+        "affectsGlobalScope": false
+      },
+      "../.yarn/cache/typescript-patch-d9e3e0986b-4049d2a87b.zip/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "9622e8bd7cc72a7dab819a8011ecbf81d443638082e5cb99ecf2e75ff56ffc9d",
+        "signature": "9622e8bd7cc72a7dab819a8011ecbf81d443638082e5cb99ecf2e75ff56ffc9d",
+        "affectsGlobalScope": true
+      },
+      "../.yarn/cache/typescript-patch-d9e3e0986b-4049d2a87b.zip/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "abadddbf660adeec27e9a56584907d52fa1d6e1e1dc49f639a921baa951b7a84",
+        "signature": "abadddbf660adeec27e9a56584907d52fa1d6e1e1dc49f639a921baa951b7a84",
+        "affectsGlobalScope": true
+      },
+      "../.yarn/cache/typescript-patch-d9e3e0986b-4049d2a87b.zip/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "7fac8cb5fc820bc2a59ae11ef1c5b38d3832c6d0dfaec5acdb5569137d09a481",
+        "signature": "7fac8cb5fc820bc2a59ae11ef1c5b38d3832c6d0dfaec5acdb5569137d09a481",
+        "affectsGlobalScope": true
+      },
+      "../.yarn/cache/typescript-patch-d9e3e0986b-4049d2a87b.zip/node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "signature": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "affectsGlobalScope": true
+      },
+      "./index.ts": {
+        "version": "2dbf554a65ca3e2187f5fa9799f0abdbd8ae4038cca40b26e34f5e5f6ea404cb",
+        "signature": "bf162c984e97fb1234782b37c1a497d8d26202aac6bebd475a2ee2febc38ab1d",
+        "affectsGlobalScope": false
+      }
+    },
+    "options": {
+      "target": 1,
+      "module": 1,
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "composite": true,
+      "configFilePath": "./tsconfig.json"
+    },
+    "referencedMap": {},
+    "exportedModulesMap": {},
+    "semanticDiagnosticsPerFile": [
+      "../.yarn/cache/typescript-patch-d9e3e0986b-4049d2a87b.zip/node_modules/typescript/lib/lib.d.ts",
+      "../.yarn/cache/typescript-patch-d9e3e0986b-4049d2a87b.zip/node_modules/typescript/lib/lib.dom.d.ts",
+      "../.yarn/cache/typescript-patch-d9e3e0986b-4049d2a87b.zip/node_modules/typescript/lib/lib.es5.d.ts",
+      "../.yarn/cache/typescript-patch-d9e3e0986b-4049d2a87b.zip/node_modules/typescript/lib/lib.scripthost.d.ts",
+      "../.yarn/cache/typescript-patch-d9e3e0986b-4049d2a87b.zip/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "./index.ts"
+    ]
+  },
+  "version": "4.1.6"
+}

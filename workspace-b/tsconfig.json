@@ -1,0 +1,10 @@
+{
+  "extends": "../tsconfig",
+  "compilerOptions": {
+    "rootDir": "./",
+    "outDir": "dist",
+  },
+  "files": [
+    "index.ts"
+  ]
+}

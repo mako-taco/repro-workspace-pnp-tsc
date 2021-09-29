@@ -1,0 +1,14 @@
+{
+  "name": "workspace-b",
+  "packageManager": "yarn@3.0.2",
+  "dependencies": {
+    "workspace-a": "workspace:*"
+  },
+  "devDependencies": {
+    "typescript": "4.1"
+  },
+  "scripts": {
+    "build": "yarn tsc --build",
+    "start": "yarn node dist/index.js"
+  }
+}
